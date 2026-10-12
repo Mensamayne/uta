@@ -1,0 +1,11 @@
+UTA (Unit Test Agent)
+Copyright (c) 2026 Mensamayne
+
+This project is not affiliated with, endorsed by, or sponsored by Cloudflare, Inc.
+
+The sample `backend/` and `frontend/` packages in this repository are original demo
+targets written for the harness. They are not a recruitment take-home starter and do
+not redistribute proprietary assignment materials.
+
+UTA was originally dogfooded against a private take-home fork; that application code
+is not included here.

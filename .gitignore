@@ -1,0 +1,24 @@
+# Dependencies
+node_modules
+
+# Build output and caches
+dist/
+.vite/
+*.tsbuildinfo
+
+# Test coverage
+coverage/
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# Unit test agent run directories
+.uta-runs/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
